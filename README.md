@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Solanki</h1>
 <h3 align="center">Turning ideas into stunning web and mobile experiences</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30362f36302f65662f30363630656665383266613364613432656435366565663031333137313833352e676966](https://github.com/user-attachments/assets/d75755d1-a61f-4ff5-80d6-de71514380fe)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solanki028&label=Profile%20views&color=0e75b6&style=flat" alt="solanki028" /> </p>
 
